@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  background-color: beige;
+}
+
+#main {
+  margin: 15px 15px;
+  padding: 15px;
+  border-radius: 15px;
+  background: whitesmoke;
+}
+
+.italics {
+  font-style: italic;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+ul {
+  text-align: left;
+  margin: 50px;
+}
+
+li {
+  margin: 15px;
+}
